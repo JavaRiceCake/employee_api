@@ -1,0 +1,38 @@
+[
+  {
+   "Student ID": 1900001,
+   "FIRSTNAME": "RJAY",
+   "MIDDLENAME": "PITOGO",
+   "LASTNAMECOURSE": "ROSAS",
+   "Column5": "BSCS",
+   "YEAR": 4,
+   "SUBJECT": "IT101",
+   "DESCRIPTION": "IT LOREM",
+   "MIDTERM": 1,
+   "FINALS": 1,
+   "FINAL GRADE": 1,
+   "REMARKS": "OK",
+   "CURRICULUM CODE": "BSCS2023",
+   "INC STATUS": "NULL",
+   "EQUIVALENCY": "NULL",
+   "RETAKE INFO": "NULL"
+  },
+  {
+    "Student ID": 1900002,
+    "FIRSTNAME": "MARVIN",
+    "MIDDLENAME": "ROXAS",
+    "LASTNAMECOURSE": "GACUAN",
+    "Column5": "BSCS",
+    "YEAR": 4,
+    "SUBJECT": "IT101",
+    "DESCRIPTION": "IT LOREM",
+    "MIDTERM": 1,
+    "FINALS": 1,
+    "FINAL GRADE": 1,
+    "REMARKS": "OK",
+    "CURRICULUM CODE": "BSCS2023",
+    "INC STATUS": "NULL",
+    "EQUIVALENCY": "NULL",
+    "RETAKE INFO": "NULL"
+   }
+ ]
