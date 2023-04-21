@@ -19,5 +19,12 @@
     "LASTNAME": "OLAZO",
      "POSITION": "DEVELOPER",
      "SALARY": "5000"
+   },
+  {
+    "EMPLOYEE_ID": 1900004,
+    "FIRSTNAME": "JOSH",
+    "LASTNAME": "JOSE",
+     "POSITION": "MANALO",
+     "SALARY": "5000"
    }
  ]
