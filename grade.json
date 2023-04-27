@@ -4,27 +4,27 @@
    "FIRSTNAME": "RJAY",
    "LASTNAME": "ROSAS",
    "POSITION": "DEVELOPER",
-   "SALARY": "5000"
+   "SALARY": "560"
   },
   {
     "EMPLOYEE_ID": 1900002,
     "FIRSTNAME": "MARVIN",
     "LASTNAME": "GACUAN",
-    "POSITION": "DEVELOPER",
-    "SALARY": "5000"
+    "POSITION": "QA",
+    "SALARY": "580"
    },
     {
     "EMPLOYEE_ID": 1900003,
     "FIRSTNAME": "JASPER",
     "LASTNAME": "OLAZO",
-     "POSITION": "DEVELOPER",
-     "SALARY": "5000"
+     "POSITION": "MANAGER",
+     "SALARY": "570"
    },
   {
     "EMPLOYEE_ID": 1900004,
     "FIRSTNAME": "JOSH",
     "LASTNAME": "JOSE",
-     "POSITION": "MANALO",
-     "SALARY": "5000"
+     "POSITION": "HR",
+     "SALARY": "600"
    }
  ]
